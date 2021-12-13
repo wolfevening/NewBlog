@@ -1,2 +1,6 @@
 aca vamos iniciando de  nuevo debido a 
 que se daño el ultimo
+
+debido a la mala implementacion de los codigo de git
+y a la mala  manipulacion de la consola
+
