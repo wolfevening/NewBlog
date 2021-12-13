@@ -4,3 +4,7 @@ que se daño el ultimo
 debido a la mala implementacion de los codigo de git
 y a la mala  manipulacion de la consola
 
+ya con esto, tenemos que organizar de nuevo el texto
+y las vainas que vienen con el.
+asi de simple 
+quedamos asi
