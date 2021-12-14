@@ -8,3 +8,5 @@ ya con esto, tenemos que organizar de nuevo el texto
 y las vainas que vienen con el.
 asi de simple 
 quedamos asi
+
+y ahora agregamos otra nueva lina a esta vaina
